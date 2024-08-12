@@ -1,0 +1,7 @@
+C:\Users\Tyler\source\repos\TodoAppBlazorServer\TodoAppBlazorServer\obj\Debug\net6.0\TodoAppBlazorServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\source\repos\TodoAppBlazorServer\TodoAppBlazorServer\obj\Debug\net6.0\TodoAppBlazorServer.AssemblyInfoInputs.cache
+C:\Users\Tyler\source\repos\TodoAppBlazorServer\TodoAppBlazorServer\obj\Debug\net6.0\TodoAppBlazorServer.AssemblyInfo.cs
+C:\Users\Tyler\source\repos\TodoAppBlazorServer\TodoAppBlazorServer\obj\Debug\net6.0\TodoAppBlazorServer.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\source\repos\TodoAppBlazorServer\TodoAppBlazorServer\obj\Debug\net6.0\TodoAppBlazorServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tyler\source\repos\TodoAppBlazorServer\TodoAppBlazorServer\obj\Debug\net6.0\TodoAppBlazorServer.RazorAssemblyInfo.cache
+C:\Users\Tyler\source\repos\TodoAppBlazorServer\TodoAppBlazorServer\obj\Debug\net6.0\TodoAppBlazorServer.RazorAssemblyInfo.cs
